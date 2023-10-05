@@ -17,7 +17,7 @@ class MyApp extends StatelessWidget {
                  Row(
                   mainAxisAlignment: MainAxisAlignment.spaceEvenly,
                   children: [
-                    OvalRectangle2(txt: 'Д_Д', width2: 0.8, height2: 0.4, colortxt2: Color.fromARGB(255, 255, 255, 255),), 
+                    OvalRectangle2(txt: 'Введите логин и пароль', width2: 0.8, height2: 0.4, colortxt2: Color.fromARGB(255, 255, 255, 255),), 
                   ],
                 ),
                 SizedBox(height: 60),
